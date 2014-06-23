@@ -1,2 +1,5 @@
 puts "Hello, world"
-# this is my first change
+<<<<<<< HEAD
+puts "Hello vidhu" 
+=======
+>>>>>>> f94e27446ee1f2bc06622b387cb7dc7ff93c296f
