@@ -1,7 +1,6 @@
-puts "Hello, world"
-<<<<<<< HEAD
-puts "Hello, vidhu"
+# Default is "World"
+name = ARGV.first || "World"
 
-=======
-puts "hello"
->>>>>>> da2875abb701875d2706394f2857cde303654eb7
+puts "Hello, #{name}!"
+
+
